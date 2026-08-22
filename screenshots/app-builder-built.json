@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "На коне — шахматная школа",
+      "hasCanvas": false,
+      "bodyTextLen": 9162,
+      "bodyTextHash": "e8a2df131f71b22f1f8857e8406af7533f44d3603762a340361e208b2d377d80",
+      "bodyTextPrefix": "Перейти к содержанию ♞ НА КОНЕ. Методика Занятия Тренеры Тарифы ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "На коне — шахматная школа",
+      "hasCanvas": false,
+      "bodyTextLen": 8905,
+      "bodyTextHash": "a6009d00225292849401f428a2450d86f121ebe7704bd109d37c2c172a1da258",
+      "bodyTextPrefix": "Перейти к содержанию ♞ НА КОНЕ. НАБОР НА НОВЫЙ СЕЗОН Научим дума",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
