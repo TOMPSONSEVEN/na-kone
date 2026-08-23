@@ -10,16 +10,18 @@ const THEME_BOOTSTRAP = `(function(){try{var t=localStorage.getItem("nakone-them
 export const Route = createRootRoute({
   head: () => ({
     meta: [
-      { charSet: "utf-8" },
-      { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: APP_NAME },
-      { name: "theme-color", content: "#1a1610" },
-      {
-        name: "description",
-        content:
-          "Шахматная школа «На коне» — очные и онлайн-занятия для детей от 4 лет и взрослых. Тренеры с рейтингом ФИДЕ, авторская методика, турниры и разряды. Первый урок бесплатно.",
-      },
-    ],
+  { charSet: "utf-8" },
+  { name: "viewport", content: "width=device-width, initial-scale=1" },
+  { title: APP_NAME },
+  { name: "theme-color", content: "#1a1610" },
+  {
+    name: "description",
+    content:
+      "Шахматная школа «На коне» — очные и онлайн-занятия для детей от 4 лет и взрослых. Тренеры с рейтингом ФИДЕ, авторская методика.",
+  },
+  { name: "yandex-verification", content: "890491f223bab35b" },
+  { name: "google-site-verification", content: "QYIMT5bH0-z-Kt9Wciu1Gey5lHDx2oQM045L1q7trzA" },
+],
     links: [
       { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
       { rel: "stylesheet", href: appCss },
