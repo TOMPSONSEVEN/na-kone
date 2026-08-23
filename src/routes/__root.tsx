@@ -45,6 +45,8 @@ function RootDocument() {
     <html lang="ru" suppressHydrationWarning>
       <head>
         <HeadContent />
+        <meta name="yandex-verification" content="890491f223bab35b" />
+        <meta name="google-site-verification" content="QYIMT5bH0-z-Kt9Wciu1Gey5lHDx2oQM045L1q7trzA" />
       </head>
       <body>
         <PreviewHostBridge />
