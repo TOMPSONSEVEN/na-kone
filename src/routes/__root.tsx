@@ -20,6 +20,7 @@ export const Route = createRootRoute({
       "Шахматная школа «На коне» — очные и онлайн-занятия для детей от 4 лет и взрослых. Тренеры с рейтингом ФИДЕ, авторская методика.",
   },
   { name: "yandex-verification", content: "890491f223bab35b" },
+  { name: "yandex-verification", content: "c70d2b80fa65b0f5" },
   { name: "google-site-verification", content: "QYIMT5bH0-z-Kt9Wciu1Gey5lHDx2oQM045L1q7trzA" },
 ],
     links: [
